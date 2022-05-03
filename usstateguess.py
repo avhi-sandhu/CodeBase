@@ -1,6 +1,3 @@
-from os import stat
-
-
 def promptmsg():
     print('''There are a total of 50 states \nin the great country of USA.\n''')
 
